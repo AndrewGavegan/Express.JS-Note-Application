@@ -1,4 +1,4 @@
-# TeamProfileGenerator
+# Express.JS Note App
 
 ---
 ## Table of contents
