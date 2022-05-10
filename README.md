@@ -10,7 +10,7 @@
 * [Questions](Questions)
 ---
 ## Description
-This application is a functional note taking application that uses an Express.JS back end. It is deployed using heroku to allow the live back end and front end to work simultaneously. The back end includes a database file of json format where the data is pushed to, read, and pulled from, as per the CRUD API methodolgy. The back end utilises Express.JS features such as router modularisation and get/post calls. The front end includes inputs to create a title of a note, the contents of a note, and a collum to the left where saved notes are stored. 
+This application is a functional note taking application that uses an Express.JS back end. It is deployed using heroku to allow the live back end and front end to work simultaneously. The back end includes a database file that is json format where the data is pushed to, read, and pulled from, as per CRUD API methodolgy. The back end utilises Express.JS features such as router modularisation and get/post calls. The front end includes inputs to create a title of a note, the contents of a note, and a collum to the left where saved notes are stored. 
 
 Project is deployed at https://andrew-gavegan-note-taker.herokuapp.com/
 ![ExpressJS Screenshot1](https://user-images.githubusercontent.com/91113260/167620270-7b5208f4-8067-4151-a70e-ad6ee8b53b33.PNG)
@@ -20,7 +20,7 @@ Project is deployed at https://andrew-gavegan-note-taker.herokuapp.com/
 
 ---
 ## Installation
-Pakcages needed for this project are as follows: FS, Express, UUIDV4. Running npm install -y on this project installs these packages and the project code can now function normally. 
+Packages needed for this project are as follows: FS, Express, UUIDV4. Running npm install -y on this project installs these packages and the project code can now function normally. 
 
 ---
 ## Usage 
